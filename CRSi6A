@@ -24,4 +24,4 @@ git push -u origin master
 et votre doossier est ainsi enregistré sur github
 
 lorsque vous le modifiez, pour enregistrer ces modifications, il faut recommencer à paritr de git add, sans la commande git remote.
-git remote add origin hhtps://AdresseDonnéeParGithub
+
