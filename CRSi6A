@@ -1,0 +1,17 @@
+
+
+Compte rendu pour suivre un projet existant sur github
+
+Un fichier "divsion" contenant du code à été créé.
+nous voulons le faire suivre par github, voilà comment il faut procéder.
+Nous avons besoin d'un compte sur github.
+Sur le "+" en haut de l'écran, faites create new repository.
+ensuite, via le terminal de linux, placez vous à l'endroit de votre dossier, puis rentrer les commandes indiquées :
+
+git init  // pour initialiser le dossier.
+puis git add   lenomdudossier // afin d'ajouter le dossier
+ensuite git commit -m "first commit" afin de valider l'information
+/!\ si vous n'avez pas rentré votre username et  votre adresse email, le commit ne se fera pas.
+vous devrez donc rentrer ces deux lignes
+git config user.name votrenomsurgimp
+git config user.email votreadressemeail
