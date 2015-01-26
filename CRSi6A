@@ -15,3 +15,13 @@ ensuite git commit -m "first commit" afin de valider l'information
 vous devrez donc rentrer ces deux lignes
 git config user.name votrenomsurgimp
 git config user.email votreadressemeail
+
+puis re rentrer git commit etc...
+puis
+git remote add origin hhtps://AdresseDonnéeParGithub
+puis
+git push -u origin master
+et votre doossier est ainsi enregistré sur github
+
+lorsque vous le modifiez, pour enregistrer ces modifications, il faut recommencer à paritr de git add.
+git remote add origin hhtps://AdresseDonnéeParGithub
