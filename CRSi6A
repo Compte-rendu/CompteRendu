@@ -25,3 +25,7 @@ et votre doossier est ainsi enregistré sur github
 
 lorsque vous le modifiez, pour enregistrer ces modifications, il faut recommencer à paritr de git add, sans la commande git remote.
 
+Parti B
+Pour cloner un projet Git il faut d'abord créer le dossier dans lequel on va acheminer le clone.
+Ensuite dans le terminal entrée le lien du service git hub afin de le cloner.
+Faite les modifications nécessaire, puis git commit, git status, git push afin de le renvoyer dans le répertoire git.
